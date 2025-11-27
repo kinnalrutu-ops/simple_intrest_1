@@ -9,4 +9,4 @@ else:
    r=2
    t=1
 simple_interest = p * r * t/100
-print("Simple Interest:", round(simple_interest, 2))
+print("Simple Interest:",simple_interest)
