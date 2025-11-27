@@ -5,8 +5,8 @@ if len(sys.argv) == 3:
     r = float(sys.argv[2])
     t = float(sys.argv[3])
 else:
-   p=5000
-   r=5
-   t=10
+   p=12000
+   r=2
+   t=1
 simple_interest = p * r * t/100
 print("Simple Interest:", round(simple_interest, 2))
